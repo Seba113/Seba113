@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a Developer from Montevideo, Uruguay, trying my best every day to improve my skills.
+
+✨Currently coding in TypeScript :)✨
+
+Using React and Next.Js for development.
 <!--
 **Seba113/Seba113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
