@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a Developer from Montevideo, Uruguay
-2nd year student in ORT Univeristy
+3rd year student in ORT Univeristy
 <!--
 **Seba113/Seba113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
